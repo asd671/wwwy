@@ -1,1 +1,3 @@
-aaaaa
+function test(){
+    console.log("1");
+}
