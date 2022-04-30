@@ -1,3 +1,3 @@
-function t(){
-    console.log("2");
+function t (){
+    alert("1")
 }
